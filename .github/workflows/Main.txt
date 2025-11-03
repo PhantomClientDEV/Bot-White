@@ -1,0 +1,20 @@
+return {
+
+["Zelaojg"] = true, -- Dono
+
+["defia_5uw"] = true, -- 2-Dono vitalicio fim vitalicio
+
+["Gabriel_gabb186"] = true, -- @gabriel_gab125_39916 2m fim 26/12/2025
+ 
+["Gabriel_gabb186"] = true, -- @gabriel_gab125_39916 2m fim 26/12/2025
+
+["dudubarbosa3"] = true, -- @aitonsenna._16688 1m fim 25/11/2025
+
+["L5VQT13000"] = true, -- @assustado998 1s fim 02/11/2025
+
+["ISAQUE144255"] = true, -- @joseotavio0984 3d fim 30/10/2025
+    
+
+
+["cassad_339"] = true, -- <@1385367583494246430> fim permanent
+}
